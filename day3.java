@@ -1,5 +1,5 @@
 //Variable in java 
-//variable is a data container used to store data value in memory.
+/*variable is a data container used to store data value in memory.*/
 
 //Example Code
 
