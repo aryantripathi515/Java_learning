@@ -13,7 +13,7 @@
 
 //Example code:
 
-class S{
+class handling{
     public static void main(String ar[]){
     String text1 = "My name is Aryan Tripathi";
     String text2 = "Aryan Tripathi";
