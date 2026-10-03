@@ -14,9 +14,9 @@ class Condit{
     public static void main(String ar[]){
         int time = 15;
         if(time<18){
-            System.out.println("Good evening!"); 
+            System.out.println("Good evening!"); //condition True;
         }else{
-            System.out.println("Good nigth!");
+            System.out.println("Good nigth!"); //condition false;
         }
     }
 }
