@@ -6,9 +6,9 @@ class Check{
         Console c = System.console();
         int age = Integer.parseInt(c.readLine("Enter Your Age:"));
         if(age>18){
-            System.out.println("Person is eligible for vote!");
+            System.out.println("Person is eligible for vote");
         }else{
-            System.out.println("Person is noteligible for vote!");
+            System.out.println("Person is Noteligible for vote!");
 
         }
     }
