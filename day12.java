@@ -1,7 +1,6 @@
 //Class in java
 
 //A class is user-defined blueprint or template.
-
 //Everything in java is associated with class and object.
 
 //Real life Example:
