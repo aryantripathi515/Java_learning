@@ -16,8 +16,8 @@ class Car{
     void Stop(){}
     void Accelerate(){}
     public static void main(String ar[]){
-        String color = red;
-        String brand = Bmw;
+        String color = "Red";
+        String brand = "Bmw";
         int speed = 60;
         
     }
