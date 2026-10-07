@@ -7,7 +7,8 @@
 
 class Car{
     String color;
-    int Speed;
+    int speed;
+    String brand;
 }
 
 class FirstCar{
